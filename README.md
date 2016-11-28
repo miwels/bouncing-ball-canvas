@@ -1,9 +1,12 @@
 # bouncing-ball-canvas
 Usage:
-    # install typescript
+Install typescript
+
     npm install -g typescript
-    # compile the files
+Compile the files
+
     tsc main.ts
-    # run the app from the browser or on a webserver
-    # i.e. php -S localhost:3000
-    
+Run the app from the browser or on a webserver
+
+
+    i.e. php -S localhost:3000
